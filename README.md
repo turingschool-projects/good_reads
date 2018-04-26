@@ -5,7 +5,13 @@ This purpose of this application is for users to review books.
 ## User Stories
 
 ```
-When I visit a book show page, I see the book title and a list of reviews for that book, including the body and the name of the user that created that review. I also see the rating (1-5; you do not need to validate that this falls within this range) that the user gave the book.
+When I visit a book show page,
+I see the book title and a list of reviews for that book,
+including the body and the name of the user that created that review.
+I also see the rating that the user gave the book.
+
+(rating will be a number between 1 and 5; you do NOT need to validate 
+that this falls within this range) 
 ```
 
 ```
