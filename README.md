@@ -4,9 +4,8 @@ This purpose of this application is for users to review books.
 
 There are no forms to build or styling required in this Friday Challenge.
 
-The primary testing here is for many-to-many relationships. You do not need to
-build model validation tests for the relationships, but you will need to test
-everything else you build.
+The primary testing here is for many-to-many relationships and accessing
+attributes through multiple models.
 
 
 ## User Stories
